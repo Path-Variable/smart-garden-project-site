@@ -568,28 +568,12 @@ video {
   top: 0px;
 }
 
-.right-0 {
-  right: 0px;
-}
-
-.left-10 {
-  left: 2.5rem;
-}
-
-.left-1 {
-  left: 0.25rem;
-}
-
 .isolate {
   isolation: isolate;
 }
 
 .-z-10 {
   z-index: -10;
-}
-
-.float-right {
-  float: right;
 }
 
 .mx-auto {
@@ -904,14 +888,6 @@ video {
 
 .pt-2 {
   padding-top: 0.5rem;
-}
-
-.pl-1 {
-  padding-left: 0.25rem;
-}
-
-.pl-10 {
-  padding-left: 2.5rem;
 }
 
 .text-2xl {
